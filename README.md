@@ -12,12 +12,11 @@ Be careful as the cars will be moving faster, each time you level up.
 
 ## 🛠 Built With
 
-+![python](https://www.python.org/downloads)
++[python](https://www.python.org/downloads)
 
 ## 📺 Demo
 
-![image](https://user-images.githubusercontent.com/128680209/227937495-4ccc26c8-8627-4136-bf4a-2227245e68c9.png)
-
+![118402665-444da200-b641-11eb-9f5f-e6387c0d72d0 (1)](https://user-images.githubusercontent.com/128680209/227938328-5969493d-c4b8-4348-9dae7810baa263f2.gif)
 
 ## ⚙️ Dependencies:
 
