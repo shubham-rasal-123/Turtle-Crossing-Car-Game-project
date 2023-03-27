@@ -1,5 +1,6 @@
 # Turtle Crossing Car Game
 
+![image](https://user-images.githubusercontent.com/128680209/227937658-23018768-5fac-40bb-8cfc-6c7cf670c4f0.png)
 
 
 ##  About
@@ -15,7 +16,8 @@ Be careful as the cars will be moving faster, each time you level up.
 
 ## 📺 Demo
 
-!(https://user-images.githubusercontent.com/37813839/118402665-444da200-b641-11eb-9f5f-e6387c0d72d0.gif)
+![image](https://user-images.githubusercontent.com/128680209/227937495-4ccc26c8-8627-4136-bf4a-2227245e68c9.png)
+
 
 ## ⚙️ Dependencies:
 
