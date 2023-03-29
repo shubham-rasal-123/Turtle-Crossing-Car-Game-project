@@ -11,7 +11,7 @@ Be careful as the cars will be moving faster, each time you level up.
 
 ## 🛠 Built With
 
-•[python](https://www.python.org/downloads)
+• [python](https://www.python.org/downloads)
 
 ## ⚙️ Dependencies:
 
